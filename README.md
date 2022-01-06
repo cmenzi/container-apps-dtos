@@ -1,1 +1,1 @@
-# container-apps-dtos
+# Azure Container Apps YAML (DTOs)
